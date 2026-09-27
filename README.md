@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" width="300" alt="Neon hacker animation" />
+</p>
+
 | **toSVG** | Turn raster images into SVG vectors. Image processing runs locally in your browser. 
 | [firesvg.netlify.app](https://firesvg.netlify.app/) |
 
