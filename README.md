@@ -1,6 +1,9 @@
-| **toSVG** | Turn raster images into SVG vectors. Image processing runs locally in your browser. | [firesvg.netlify.app](https://firesvg.netlify.app/) |
+| **toSVG** | Turn raster images into SVG vectors. Image processing runs locally in your browser. 
+| [firesvg.netlify.app](https://firesvg.netlify.app/) |
 
-| **FireConverter** | Convert images, audio, video, and PDFs in your browser without uploading your files. | [fireconverter.netlify.app](https://fireconverter.netlify.app/) |
+| **FireConverter** | Convert images, audio, video, and PDFs in your browser without uploading your files.
+| [fireconverter.netlify.app](https://fireconverter.netlify.app/) |
 
-| **No Paywall** | Read available article content and images in a focused layout, with a public archive option when extraction is unavailable. | [nopaywall.netlify.app](https://nopaywall.netlify.app/) |
+| **No Paywall** | Read available article content and images in a focused layout, with a public archive option when extraction is unavailable. 
+| [nopaywall.netlify.app](https://nopaywall.netlify.app/) |
 
